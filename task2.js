@@ -5,3 +5,4 @@ else if (typeof testVar ==="string"){console.log('Thats string')}
 else if (typeof testVar ==="boolean"){console.log('Thats boolean type')}
 else {console.log('Thats Undefined type')}
 
+

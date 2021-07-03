@@ -10,3 +10,6 @@ function getRandomIntFromRange(min, max) {
   console.log(randomNumber)
   
   
+
+
+  

@@ -9,3 +9,4 @@ while (len) {
 }
   
 console.log(newString);
+

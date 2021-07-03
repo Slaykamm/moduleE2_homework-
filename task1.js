@@ -6,4 +6,6 @@ if (typeof test === "number" && test === test){
   else {console.log('Thats even number')}
 }
 if (test !== test){console.log('Thats not a number')}
+  
 
+ 

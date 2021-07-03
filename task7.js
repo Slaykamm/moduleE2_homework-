@@ -16,3 +16,4 @@ randomArray.forEach(function(item, index, array) {
 });
 
 console.log(`Zero items in array are ${zeroItem}, odd items in array are ${oddItem}, even items in array are ${evenItem}`)
+

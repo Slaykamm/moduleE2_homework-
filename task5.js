@@ -5,3 +5,5 @@ let result = randomArray.map(function(item, index, array){
 }                          
 );
 
+
+
